@@ -18,6 +18,7 @@ Previous Areas of Interest
 - 🥋 Judo
 - 🛩️ Aeromodeling
 - 🧑‍🍳 New-American Cuisine 
+- ⚽ Futbol
 
 <!--
 **dpsoccerdude101/dpsoccerdude101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
