@@ -4,20 +4,21 @@
 Ex-Professional Student of Schooling 👔
 Amateur Student of Existence 🌠
 
-Previous Areas of Interest
-- 🧠 Neuroscience 
+Areas of Interest:
+- 🧠 Neuroscience
 - 💻👀 Computer Vision
 - 💻⛓️ Applied Cryptography
+- 📚 Alternative Education
 - 💰👎👍 Economics/Game Theory
-- 🤕🧒🧠 Developmental Trauma 
-- 💊📈🧠 Nootropics 
-- 🧬 Epigenetics 
+- 🤕🧒🧠 Developmental Trauma
+- 💊📈🧠 Nootropics
+- 🧬 Epigenetics
 - ✨🧬🧠 Evolutionary Psychology
 - 🙇‍♂️The Human Condition
 - 🏓Table Tennis
 - 🥋 Judo
 - 🛩️ Aeromodeling
-- 🧑‍🍳 New-American Cuisine 
+- 🧑‍🍳 New-American Cuisine
 - ⚽ Futbol
 
 <!--
