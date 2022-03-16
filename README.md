@@ -1,23 +1,19 @@
 ### Hi there 👋, I am Dennis Pavlyuk, a first-generation Ukrainian-American.
 "You get what you expect, and you deserve what you tolerate." -Mark Graban.
 
-Ex-Professional Student of Schooling 👔
-Amateur Student of Existence 🌠
+I am young, inventive, conscientious, passionate, and obsessive about my work. I take pride in my code and fulfill anticipated business needs in my sprints. I bring expertise, charisma, and diplomatic communication to the table.
+I look forward to working with you all.
 
 Areas of Interest:
 - 🧠 Neuroscience
 - 💻👀 Computer Vision
 - 💻⛓️ Applied Cryptography
+- 🛩️ Fixed-Wing UAVs w/ FPV
+- 💻✨UX Development
 - 📚 Alternative Education
 - 💰👎👍 Economics/Game Theory
-- 🤕🧒🧠 Developmental Trauma
 - 💊📈🧠 Nootropics
-- 🧬 Epigenetics
 - ✨🧬🧠 Evolutionary Psychology
-- 🙇‍♂️The Human Condition
-- 🏓Table Tennis
-- 🥋 Judo
-- 🛩️ Aeromodeling
 - 🧑‍🍳 New-American Cuisine
 - ⚽ Futbol
 
