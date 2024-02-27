@@ -1,5 +1,4 @@
 ### Hi there 👋, I am Dennis Pavlyuk, a first-generation Ukrainian-American.
-"You get what you expect, and you deserve what you tolerate." -Mark Graban.
 
 I am young, inventive, conscientious, passionate, and obsessive about my work. I take pride in my code and fulfill anticipated business needs in my sprints. I bring expertise, charisma, and diplomatic communication to the table.
 I look forward to working with you all.
